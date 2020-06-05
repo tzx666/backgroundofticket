@@ -1,0 +1,6 @@
+p, 555, /api/*, (GET)|(POST)
+
+p, 666, /api/*, (GET)|(POST)
+
+p, 777, /api/*, (GET)|(POST)
+p, 777, /API/*, (GET)|(POST)
